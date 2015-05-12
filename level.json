@@ -1,0 +1,15 @@
+{"level":[
+{"scorePerClick":1,"scoreToNextLevel":0},
+{"scorePerClick":12,"scoreToNextLevel":2},
+{"scorePerClick":30,"scoreToNextLevel":5},
+{"scorePerClick":70,"scoreToNextLevel":7},
+{"scorePerClick":150,"scoreToNextLevel":10},
+{"scorePerClick":250,"scoreToNextLevel":12},
+{"scorePerClick":350,"scoreToNextLevel":15},
+{"scorePerClick":500,"scoreToNextLevel":20},
+{"scorePerClick":700,"scoreToNextLevel":24},
+{"scorePerClick":1000,"scoreToNextLevel":27},
+{"scorePerClick":1500,"scoreToNextLevel":31},
+{"scorePerClick":2300,"scoreToNextLevel":32},
+{"scorePerClick":3000,"scoreToNextLevel":35}
+]}
